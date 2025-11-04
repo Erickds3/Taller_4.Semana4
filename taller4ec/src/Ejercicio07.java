@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Generar un algoritmo que permita calcular y mostrar el valor a cancelar de una planilla de luz. 
  * Se debe ingresar el valor de costo por kilovatio/hora y el número de kilovatios consumidos en el mes.
  * Si el usuario tiene edad mayor a 65 años, se debe descontar el 10%.
- * @author MARDIEG DIAZ
+ * @author Erick Cuayal
  * @version 1.0
  */
 public class Ejercicio07 {
@@ -52,4 +52,5 @@ Edad del usuario63.0
 Descuento aplicado: 10.0
 Valor a pagar: 12320.0
 BUILD SUCCESSFUL (total time: 33 seconds)
+
  */
